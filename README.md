@@ -1,1 +1,1 @@
-# This is Daily Log on Job
+# A short Test on Blog
